@@ -37,7 +37,6 @@ function Header({ setIsBoardModalOpen, isBoardModalOpen }) {
     setIsDeleteModalOpen(true);
     setIsElipsisMenuOpen(false);
   };
-
   const onDeleteBtnClick = (e) => {
     if (e.target.textContent === "Delete") {
       dispatch(boardsSlice.actions.deleteBoard());
