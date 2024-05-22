@@ -45,3 +45,5 @@ Bonus:
 - [React](https://reactjs.org/) - JS library
 - [Redux](https://redux.js.org/) - State management tool
 - Local Storage
+- Node JS
+- Mongo DB
